@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @huczas
-- 👀 I’m interested in learning DevOps
-- 🌱 I’m currently learning new stuff everyday
+- 👀 I’m learning DevOps everyday
 - 📫 To reach me go: https://hwit.pl
 
 <!---
